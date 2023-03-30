@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gamal Eldin</h1>
+<h1 align="center">Hi 👋, I'm Gamal Eldien</h1>
 
 <br>
 
