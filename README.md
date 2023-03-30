@@ -3,7 +3,7 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=Jaime077011&label=Profile%20views&color=0e75b6&style=flat"
+<p align="right"> <h3>Profile Views :-</h3> <img style="width:200px; hieght:200px;" src="https://komarev.com/ghpvc/?username=Jaime077011&label=Profile%20views&color=0e75b6&style=flat"
     alt="jaime" /> 
   </p>
 
@@ -23,9 +23,6 @@
   <a href="https://www.linkedin.com/in/gamal-eldien-gamal-07813b208/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Gamal eldien" height="30" width="40" /></a>
- <a href="https://twitter.com/adam_pithenwala" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
-      alt="adampithewan" height="30" width="40" /></a>
 </p>
 
 <br>
