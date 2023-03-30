@@ -39,9 +39,9 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="python"
       width="40" height="40" /> </a><a href="https://www.laravel.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="python"
-      width="40" height="40" /> </a><a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="python"
       width="40" height="40" /> </a>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
+          
 
 
     
