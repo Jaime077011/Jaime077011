@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Gamal Eldin</h1>
-<h3 align="center">Student at ALX Africa</h3>
 
 <br>
 
@@ -10,9 +9,6 @@
 <br>
 
 <p><img align="right" style="width:300px; hieght:300px;" src="https://user-images.githubusercontent.com/101170188/228897915-ac8b7ac7-fbe0-45f8-9ec3-62b24c8a56e0.gif" alt="jaime" /></p>
-
-
-- 🌱 I’m currently learning Web Development and other programming languages
 
 - 📫 How to reach me **jaime077011@gmail.com**
 
