@@ -3,13 +3,13 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img style="width:200px; hieght:200px;" src="https://komarev.com/ghpvc/?username=Jaime077011&label=Profile%20views&color=0e75b6&style=flat"
+<p align="right"> <h3>Profile Views :-</h3> <img  src="https://komarev.com/ghpvc/?username=Jaime077011&label=Profile%20views&color=0e75b6&style=flat"
     alt="jaime" /> 
   </p>
 
 <br>
 
-<p><img align="right" src="https://user-images.githubusercontent.com/101170188/228897915-ac8b7ac7-fbe0-45f8-9ec3-62b24c8a56e0.gif" alt="jaime" /></p>
+<p><img align="right" style="width:200px; hieght:200px;" src="https://user-images.githubusercontent.com/101170188/228897915-ac8b7ac7-fbe0-45f8-9ec3-62b24c8a56e0.gif" alt="jaime" /></p>
 
 
 - 🌱 I’m currently learning Web Development and other programming languages
