@@ -45,7 +45,7 @@ IDEA → PROMPT AI → TEST → SHIP → ITERATE
 ## 🤝 Let’s Connect
 - **LinkedIn:** <a href="https://www.linkedin.com/in/gamal-eldien-gamal-07813b208/">gamal‑eldien‑gamal‑07813b208</a>
 - **Upwork:** <a href="https://upwork.com/freelancers/gamaleldiengamal">Top‑Rated Profile</a>
-- **Email:** <code>gamaleldien.dev&nbsp;@&nbsp;gmail.com</code>
+- **Email:** <code>jaime077011@gmail.com</code>
 
 ---
 
