@@ -1,9 +1,6 @@
 <h1 align="center">Hi — I’m <strong>Gamal Eldien</strong> 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/Jaime077011?tab=followers">
-    <img src="https://img.shields.io/github/followers/Jaime077011?label=GitHub&nbsp;Followers&style=social" alt="GitHub Followers">
-  </a>
   <a href="https://www.linkedin.com/in/gamal-eldien-gamal-07813b208/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn">
   </a>
@@ -18,9 +15,6 @@
   AI is the turbo‑charger in my workflow — I run the engine.
 </blockquote>
 
-## 🔥 Current Focus
-- **AI‑Powered Restaurant Menu Assistant**  
-  Conversational ordering, real‑time kitchen dashboards, and SaaS billing — ~80 % complete and onboarding pilot venues.
 
 ## 🛠️  Toolbelt
 ![Node.js](https://img.shields.io/badge/Node.js-181717?logo=node.js&logoColor=white)
