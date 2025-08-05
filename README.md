@@ -13,9 +13,9 @@
 </p>
 
 <blockquote align="center">
-  <b>Full‑Stack Developer · AI‑First Builder · Product Crafter</b><br>
+  <b>Full‑Stack Developer · AI‑Powered Problem‑Solver · Product Crafter</b><br>
   I design & ship end‑to‑end experiences that feel <em>magical</em> — from Woo plugins to multi‑tenant SaaS on Node/React.<br>
-  My secret weapon? Leveraging AI for ideation, code generation & testing so projects launch faster and scale cleaner.
+  AI is the turbo‑charger in my workflow — I run the engine.
 </blockquote>
 
 ## 🔥 Current Focus
@@ -38,7 +38,7 @@
 ```text
 IDEA → PROMPT AI → TEST → SHIP → ITERATE
 ```
-- **AI everywhere** – GitHub Copilot, OpenAI, & custom RAG agents  
+- **AI assist** – GitHub Copilot, OpenAI, & custom RAG agents  
 - **TDD / CI** – Vitest, Playwright, GitHub Actions  
 - **Instant deploys** – Vercel, Docker, Fly.io
 
