@@ -19,12 +19,6 @@ I'm most alive when I’m<br>
 - 📚 learning one rabbit‑hole at a time (currently: multimodal AI)<br>
 - 🌍 helping the web feel faster, friendlier, and a little more fun.
 
-### What I’m coding right now
-| Project | Why it excites me |
-|---------|------------------|
-| **AI‑Powered Restaurant Menu Assistant** | merging conversation, payments, and real‑time dashboards into one seamless bite |
-| **WooCommerce QR Ticketing** | giving events a smoother door experience with a hint of ✨ QR magic |
-| **Tiny side‑quests** | random OSS fixes, experimental UI toys, and tooling scripts that make dev life nicer |
 
 ### Favourite tools in my toolbox
 ![Node.js](https://img.shields.io/badge/Node.js-181717?logo=node.js&logoColor=white)
