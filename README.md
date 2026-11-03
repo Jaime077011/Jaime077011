@@ -13,8 +13,6 @@
 I build web apps, websites that bring in customers, and AI tools that save businesses time.\
 5+ years of work for clients in Saudi Arabia, the Arab world, Europe and the US.
 
-<p dir="rtl">أبني مواقع تجلب العملاء، وأستخدم الذكاء الاصطناعي لأوفر وقتك.</p>
-
 ## What I do
 
 **Websites that sell.** Fast on mobile, a clear message, and an easy way to reach you on every page. WordPress, WooCommerce, Shopify, or custom builds in Next.js.
